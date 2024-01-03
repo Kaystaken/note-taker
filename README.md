@@ -2,22 +2,16 @@
 
 ## Description
 
-### Motivation
-As a small business owner I want to be able to write and save notes 
-
-### Why?
-
-so that I can organize my thoughts and keep track of tasks I need to complete
+Note Taker application that can be used to write and save notes
 
 ### Problem Solved
 
-Easy and quick to add and delete notes to stay organized
+Easy and quick to add and delete notes so that I can organize my thoughts and keep track of tasks I need to complete
 
+## Link and Preview
 
-
-## Installation
-
-https://note-taker-11122-a0d101579f4e.herokuapp.com/ | https://git.heroku.com/note-taker-11122.git
+https://note-taker-11122-a0d101579f4e.herokuapp.com/ 
+<img width="1449" alt="Screenshot 2024-01-02 at 9 30 27 PM" src="https://github.com/Kaystaken/note-taker/assets/148396597/9d048c71-af83-4d82-89cb-80ddba62f5d5">
 
 ## Usage
 
@@ -32,7 +26,7 @@ https://note-taker-11122-a0d101579f4e.herokuapp.com/ | https://git.heroku.com/no
 
 ## Credits
 
-n/a
+Previous bootcamp mini-project
 
 ## License
 
